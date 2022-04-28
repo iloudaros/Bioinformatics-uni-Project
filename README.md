@@ -1,6 +1,6 @@
 # Bioinformatics-uni-Project
 
-##Folder Structure
+## Folder Structure
 ```
 .
 |--Code                         # Ο κώδικας που δημιουργήθηκε στα πλαίσια των υλοποιητικών ασκήσεων του 1ου Project.
