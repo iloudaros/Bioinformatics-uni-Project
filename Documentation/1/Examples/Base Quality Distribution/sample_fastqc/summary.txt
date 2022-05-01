@@ -1,0 +1,10 @@
+PASS	Basic Statistics	sample.txt
+PASS	Per base sequence quality	sample.txt
+WARN	Per sequence quality scores	sample.txt
+FAIL	Per base sequence content	sample.txt
+FAIL	Per sequence GC content	sample.txt
+PASS	Per base N content	sample.txt
+PASS	Sequence Length Distribution	sample.txt
+PASS	Sequence Duplication Levels	sample.txt
+FAIL	Overrepresented sequences	sample.txt
+PASS	Adapter Content	sample.txt
