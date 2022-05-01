@@ -1,0 +1,6 @@
+Reverse Complement results
+>Rosalind_64 reverse complement
+ATAT
+
+>Rosalind_48 reverse complement
+TATGC
