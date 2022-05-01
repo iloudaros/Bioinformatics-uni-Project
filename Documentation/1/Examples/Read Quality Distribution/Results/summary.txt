@@ -1,0 +1,10 @@
+PASS	Basic Statistics	example.fq
+PASS	Per base sequence quality	example.fq
+FAIL	Per sequence quality scores	example.fq
+FAIL	Per base sequence content	example.fq
+FAIL	Per sequence GC content	example.fq
+PASS	Per base N content	example.fq
+PASS	Sequence Length Distribution	example.fq
+PASS	Sequence Duplication Levels	example.fq
+FAIL	Overrepresented sequences	example.fq
+PASS	Adapter Content	example.fq
