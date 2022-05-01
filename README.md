@@ -6,8 +6,12 @@
 |--Code                         # Ο κώδικας που δημιουργήθηκε στα πλαίσια των υλοποιητικών ασκήσεων του 1ου Project.
 |
 |--Documentation                # Οι Απαντήσεις στα 2 Project.
+|  | 
 |  |--1                         # Οι Απαντήσεις του 1ου Project.
-|  |  |--...(under construction)
+|  |  |--Examples               # Παραδείγματα. Datasets από τη Rosalind και αποτελέσματα από τα αντίστοιχα εργαλεία
+|  |  |--Media                  # Screenshots από την χρήση των εργαλείων
+|  |  |--report 1.pages
+|  |  |--report 1.pdf
 |  |  
 |  |--2                         # Οι Απαντήσεις του 2ου Project.
 |  |  |--...(under construction)
